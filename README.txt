@@ -30,3 +30,5 @@ DOCUMENTATION
    generate the documentation.  There is a readme in docs/README.txt which
    discusses how to do this.  However, unless you are trying to modify the
    documentation, you should just download a copy from http://dlib.net.  
+
+Join the chat at https://gitter.im/anguoyang/dlib
